@@ -1,4 +1,4 @@
-import { Component, OnInit, Inject, HostListener } from '@angular/core';
+import { Component, OnInit, Inject, HostListener, ViewEncapsulation } from '@angular/core';
 import { MatIconRegistry } from '@angular/material/icon';
 import { DomSanitizer } from '@angular/platform-browser';
 
@@ -8,7 +8,8 @@ import { icon } from '@fortawesome/fontawesome-svg-core';
 @Component({
     selector: 'app-scroll-to-bottom',
     templateUrl: './scroll-to-bottom.component.html',
-    styleUrls: ['./scroll-to-bottom.component.css']
+    styleUrls: ['./scroll-to-bottom.component.css'],
+    encapsulation: ViewEncapsulation.None
 })
 export class ScrollBottomComponent implements OnInit {
 

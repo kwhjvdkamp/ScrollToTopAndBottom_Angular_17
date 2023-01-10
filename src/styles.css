@@ -1,3 +1,37 @@
 /* Add application styles & imports to this file! */
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+/* .blink {
+    animation: scroll-to-bottom_blink 3s infinite;
+}
+@keyframes scroll-to-bottom_blink {
+    0% {
+        color: red;
+    }
+
+    50% {
+        color: transparent;
+    }
+
+    100% {
+        color: red;
+    }
+} */
+
+/* .blink {
+    animation: scroll-to-top_blink 3s infinite;
+}
+@keyframes scroll-to-top_blink {
+    0% {
+        color: red;
+    }
+
+    50% {
+        color: transparent;
+    }
+
+    100% {
+        color: red;
+    }
+} */
