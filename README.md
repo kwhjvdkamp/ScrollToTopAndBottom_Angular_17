@@ -1,11 +1,15 @@
 # Scroll to top and scroll to bottom
- Button to scroll automatically back to top or automatically further down to the bottom of the page
+Button to scroll automatically back to top or automatically further down to the bottom of the page
+
+Problems
+@keyframes NOT working as aspected although implemented as instructed after upgrade to Angular 15
 
 ## Versions
 Angular CLI: 15.0.5
 Node: 18.12.1
 Package Manager: npm 9.1.3
 OS: win32 x64
+Angular: 15.1.0
 
 Package                         Version
 ---------------------------------------------------------
