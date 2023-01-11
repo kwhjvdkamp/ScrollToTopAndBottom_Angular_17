@@ -1,8 +1,7 @@
 # Scroll to top and scroll to bottom
 Button to scroll automatically back to top or automatically further down to the bottom of the page
 
-# Fix
-@keyframes prefixed with component name
+# Working @keyframes which has been prefixed with component name
 
 ## Versions
 Angular CLI: 15.0.5
