@@ -9,6 +9,10 @@ import { icon } from '@fortawesome/fontawesome-svg-core';
     selector: 'app-scroll-to-bottom',
     templateUrl: './scroll-to-bottom.component.html',
     styleUrls: ['./scroll-to-bottom.component.css'],
+    /*
+    ! @keyframes prefixed with component name
+    ! encapsulation: ViewEncapsulation.None
+    */
     encapsulation: ViewEncapsulation.None
 })
 export class ScrollBottomComponent implements OnInit {
