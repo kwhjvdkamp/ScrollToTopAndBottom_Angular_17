@@ -1,10 +1,27 @@
 # Scroll to top and scroll to bottom
  Button to scroll automatically back to top or automatically further down to the bottom of the page
 
-Project originally from <a href="https://medium.com/p/99ddeebb8c3a/responses/show">Apple Mahmood</a>. His project is 
-extended with a 'scroll-to-bottom' button (<a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView">scrollIntoView()</a>-method). 
-Check browser compatibility if it meets your needs.
+# Versions
+Angular CLI: 15.0.5
+Node: 18.12.1
+Package Manager: npm 9.1.3
+OS: win32 x64
 
+Angular: 15.1.0
+... animations, common, compiler, compiler-cli, core, forms
+... language-service, platform-browser, platform-browser-dynamic
+... router
 
-# Stackblitz
-<a href="https://stackblitz.com/github/kwhjvdkamp/ScrollToTopAndScrollToBottom">View</a>
+Package                         Version
+---------------------------------------------------------
+@angular-devkit/architect       0.1500.5
+@angular-devkit/build-angular   15.0.5
+@angular-devkit/core            15.0.5
+@angular-devkit/schematics      15.0.5
+@angular/cdk                    15.0.4
+@angular/cli                    15.0.5
+@angular/material               15.0.4
+@schematics/angular             15.0.5
+rxjs                            7.8.0
+typescript                      4.8.3
+
