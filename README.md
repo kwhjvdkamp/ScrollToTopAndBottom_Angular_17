@@ -1,16 +1,11 @@
 # Scroll to top and scroll to bottom
  Button to scroll automatically back to top or automatically further down to the bottom of the page
 
-# Versions
+## Versions
 Angular CLI: 15.0.5
 Node: 18.12.1
 Package Manager: npm 9.1.3
 OS: win32 x64
-
-Angular: 15.1.0
-... animations, common, compiler, compiler-cli, core, forms
-... language-service, platform-browser, platform-browser-dynamic
-... router
 
 Package                         Version
 ---------------------------------------------------------
