@@ -9,6 +9,10 @@ import { icon } from '@fortawesome/fontawesome-svg-core';
     selector: 'app-scroll-to-top',
     templateUrl: './scroll-to-top.component.html',
     styleUrls: ['./scroll-to-top.component.css'],
+    /*
+    ! @keyframes prefixed with component name
+    ! encapsulation: ViewEncapsulation.None
+    */
     encapsulation: ViewEncapsulation.None
 })
 export class ScrollTopComponent implements OnInit {
