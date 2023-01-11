@@ -25,5 +25,5 @@ rxjs                            7.8.0
 typescript                      4.8.3
 
 
-# Stackblitz
+# Stackblitz (does not run on Stackblitz, hower it does in VSCode)
 https://stackblitz.com/github/kwhjvdkamp/ScrollToTopAndScrollToBottom_15
